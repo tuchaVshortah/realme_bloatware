@@ -1,5 +1,5 @@
 # realme_bloatware
-Safe to remove bloatware for Realme phones
+Probably safe to remove bloatware list for Realme phones
 
 Tested on Realme X3 SuperZoom
 
