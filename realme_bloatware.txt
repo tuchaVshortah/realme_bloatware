@@ -12,7 +12,6 @@ com.qualcomm.uimremoteclient
 com.coloros.healthcheck
 com.coloros.weather.service
 com.android.mms.service
-com.coloros.athena
 com.mediatek.omacp
 com.coloros.wifibackuprestore
 com.heytap.openid
